@@ -2,6 +2,11 @@
 
 **Contained here are all past, future and present club assets. Assets include posers, logos, banners, etc**
 
+## See Also
+
+- **Charter - [TKUCSC charter](https://github.com/TKUCSC/charter).**
+- **Documents - [TKUCSC documents](https://github.com/TKUCSC/club-documents).**
+
 ## Contributing
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for a in depth view.
