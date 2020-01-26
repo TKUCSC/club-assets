@@ -1,77 +1,15 @@
-# **{ Project Title }**
+# **Club Assets**
 
-**{ Paragraph description with proper punctuation. }**
-
-**!{ Non project assets should be kept in 'res/repo'. }**
-
-**!{ Include a project icon|banner if present. }**
-![project logo|banner](res/repo/banner-crown.png "{ Logo description }")
-
-
-## Getting Started
-
-**{ List steps required to download and configure all libraries to develop on the project... *step by step*! }**
-
-
-### Installing
-
-**{ Step }**
-
-```
->$ commands...
-```
-
-**{ Next step }**
-
-```
->$ commands
-```
-
-### Compiling
-
-**{ Step }**
-
-```
->$ commands...
-```
-
-### Running
-
-**{ Step }**
-
-```
->$ commands...
-```
-
-### Testing
-
-**{ Step }**
-
-```
->$ commands...
-```
-
-## Deploying
-
-**{ Additional steps required to deploy the project into production. }**
-
-## Documentation
-
-Software specifications & design documents can be found in the [wiki](/wiki).
-
-## See Also
-
-- **{ Title } - { link to relevant software/guide/doumentation }**
-- **{ Title } - { link to relevant software/guide/doumentation }**
+**Contained here are all past, future and present club assets. Assets include posers, logos, banners, etc**
 
 ## Contributing
 
-Please [CONTRIBUTING.md](CONTRIBUTING.md) for a in depth view.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for a in depth view.
 
 ## Credits
 
-Please [CREDITS.md](CREDITS.md) for a in depth view.
+Please see [CREDITS.md](CREDITS.md) for a in depth view.
 
 ## License
 
-This project is licensed under the **GPL-3.0** License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the **CC-BY-SA-4.0** License - see the [LICENSE.md](LICENSE.md) file for details.
